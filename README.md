@@ -1,4 +1,5 @@
 **Analisis Estimasi State of Charge (SoC) pada Baterai Lithium-Polimer dan Lithium-Ion**
+
 Repository ini berisi sebagian kode dari penelitian skripsi saya yang berjudul "Analisis Estimasi State of Charge pada Baterai Lithium-Polimer dan Lithium-Ion Menggunakan Model Machine Learning LSTM dengan Improvisasi Grid Search untuk Tuning Hyperparameter."
 
 1. Deskripsi Singkat
